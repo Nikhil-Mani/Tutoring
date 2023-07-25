@@ -29,7 +29,9 @@ a{
     list-style: none;
     justify-content: space-between;
     align-items: center;
-    background-color:#F0F8FF  ;
+    /* background-color:#F0F8FF  ; */
+    background-color: #F5F5F5;
+    color: #333333;
     font-family: 'Inter', sans-serif;
     padding: 20px 0px;
     font-size: 1.2em;
@@ -37,14 +39,9 @@ a{
 }
 body
 {
-    background-color:  #3CB371;
+    background-color:  #479b7f;
 }
-h1{
-    padding: 30px;
-    color: white;
-    font-family: 'Inter', sans-serif;
 
-}
 
 #home{
     transition: transform 0.3s ease-in;

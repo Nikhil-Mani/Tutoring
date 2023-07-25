@@ -1,0 +1,51 @@
+
+.home_container
+{
+    height:300%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+h1{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-size: 35rem;
+}
+
+#intro{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 0%;
+    font-family: 'Inter', sans-serif;
+    font-size: 4rem;
+}
+
+.text
+{
+    width: 50%;
+    text-align: center;
+}
+
+.image
+{
+    width: 50%;
+    height: 100%;
+}
+#img
+{
+    margin-right: 5%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+    border-radius: 10px;
+    height: auto;
+}
+
+.stext{
+    font-family: 'Inter', sans-serif;
+    font-size: 1.5rem;
+text-align: center;
+}

@@ -1,0 +1,15 @@
+.text{
+    width: 100%;
+}
+
+.contact_info{
+
+  
+    display: flex;
+    flex-direction: column;
+
+    list-style-type: none;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+}
