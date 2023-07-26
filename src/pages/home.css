@@ -4,6 +4,7 @@
     height:300%;
     width: 100%;
     display: flex;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
@@ -16,30 +17,24 @@ h1{
 
 #intro{
     margin-top: 5%;
-    margin-left: 10%;
-    margin-right: 0%;
     font-family: 'Inter', sans-serif;
     font-size: 4rem;
 }
 
 .text
 {
-    width: 50%;
+    width: 100%;
     text-align: center;
 }
 
 .image
 {
-    width: 50%;
     height: 100%;
 }
 #img
 {
-    margin-right: 5%;
-    margin-left: auto;
     margin-top: 5%;
     margin-bottom: 5%;
-
     border-radius: 10px;
     height: auto;
 }
